@@ -58,7 +58,7 @@ import md5 from 'md5'
     data () {
       return {
         form: {
-          email: '2458008146@qq.com',
+          email: 'mpy_yang@163.com',
           nickname: '去大理',
           password: 'qwer1234',
           repeatpassword: 'qwer1234',
